@@ -13,3 +13,13 @@ class Addition{
         System.out.println("Addition is :" +add);
     }
 }
+
+/**
+ * 
+cd D:\Practicing                         # Go to your project folder
+git add .                                # Stage all new/changed files
+git commit -m "Your commit message"      # Commit with a message
+git push --set-upstream origin main      # First-time push only
+git push                                 # Future pushes (after upstream is set)
+
+ **/
