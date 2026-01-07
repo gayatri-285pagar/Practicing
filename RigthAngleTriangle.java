@@ -12,5 +12,6 @@ class RigthAngleTriangle{
                 }
                 System.out.println();
             }
+            //uguhn
     }
 }
