@@ -11,5 +11,5 @@ class InvertedRigthTringle{
                 System.out.println();
             }
     }
-}
+} 
     
